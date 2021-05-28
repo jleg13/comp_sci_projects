@@ -238,12 +238,12 @@ Getting and adding entities to the database is done so through a GeneralDAO<T> g
 <img src="./../../UML/class_diagram.png" alt="Class Diagram" width="1000"/>
 
 ### Sequence Diagram for Adding to/Updating Database
-<img src="./../../UML/database_add_sequence_diagram.png" alt="sequence_diagram" width="1000"/>
+<img src="./../../UML/database_update_sequence_diagram.png" alt="sequence_diagram" width="1000"/>
 
 
 ### Sequence Diagram for Getting from Database
 
-<img src="./../../UML/database_update_sequence_diagram.png" alt="sequence_diagram" width="1000"/>
+<img src="./../../UML/database_add_sequence_diagram.png" alt="sequence_diagram" width="1000"/>
 
 
 
