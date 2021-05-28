@@ -1,7 +1,7 @@
 ## Project Protocol:
 
 The following protocol is for a secured network application to get optimisations of RNA sequences. Note all messages sent over network consists of a string of ASCII characters followed by the line feed character.
-To run the application use the provided shell scripts startClient.sh and start- Server.sh.
+To run the application use the provided shell scripts startClient.sh and startServer.sh.
 Open two terminals and once in the working directory start the server in the first terminal. The command is:
 ```bash 
 $ ./startServer.sh ∗arg1∗ 
