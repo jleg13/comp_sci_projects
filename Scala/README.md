@@ -1,4 +1,4 @@
-##Project Overview:
+## Project Overview:
 Task was to complete a set a programming challenges using functional programming in scala using the latest scala 3.0 syntax.
 
 - Challenge 1: Working with lists

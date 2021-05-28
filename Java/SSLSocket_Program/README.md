@@ -1,4 +1,4 @@
-##Project Protocol:
+## Project Protocol:
 
 The following protocol is for a secured network application to get optimisations of RNA sequences. Note all messages sent over network consists of a string of ASCII characters followed by the line feed character.
 To run the application use the provided shell scripts startClient.sh and start- Server.sh.

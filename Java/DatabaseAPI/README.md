@@ -1,7 +1,7 @@
-##Project Overview:
+## Project Overview:
 This project was a class wide Software project working in small teams all contributing to the development of an application. Our team choose to work on Server-side infrastructure using Akka actors for message passing and building Database connections. The following work was my contribution to the projects gitlab database wiki and the code and test files that were integrated into the project.
 
-##Database Wiki
+##  Database Wiki
 
 *The aim of MuckDatabase is to provide a simple API that all features of MUCK2020 can utilise to access database resources during development. Since the embedded lightweight Java database is not suitable for production, to attempt to replicate a real world software development project the underlying architecture has been developed to modularise components and ease transition to a production scale database anticipating that this would be the next step of development*
 
