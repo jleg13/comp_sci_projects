@@ -2,7 +2,7 @@
 
 ## Description 
 
-A collection of code from various projects during the last 3 years:
+A collection of code from various projects during my time studying Bachalor of Computer Science (2018 - 2021)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
